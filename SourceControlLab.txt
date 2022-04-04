@@ -1,9 +1,21 @@
-https://github.com/scottbez1/smartknob
+1. https://github.com/scottbez1/smartknob
 
 	This open source project is one on a haptic smart knob that provides small simulations and tests on what haptic feedback feels like with detents and endstops. I found it very interesting, as I want to get into haptic feedback development and a project like this would help me get started with soldering, even if it requires advanced soldering I could use it as a basis to practice soldering for later projects and for if I want to develop my own haptics for other aspects rather than just a twistknob. As of right now, it is a small project, but it is meant to show off what you can do with haptics and cheap parts. The project itself is only around $200, though the developer is still working on finding cheaper parts, so I am excited to see where this smartknob leads them for future projects.
 
 
+2. https://github.com/aframevr/aframe
+	
+	AFrame is an open source porject that gives easy access to anyone looking to start out with programming vr experiences, whether that be artists or actual programmers. This looked interesting to me because I am going into virtual reality programming, and being able to create my own exprience with just experience in html really shined to me. I wish it had access to c++ so I could start getting better with that, but it was otherwise an amazing looking open source project, and I will probably use it to start working on my own little project throughout university. 
 
+3. https://github.com/OpenHMD/OpenHMD
+	
+	This open source project is a project that provides a multitude of drivers for user to create and modify their own tracking for immersive experiences. What caught my eye with this one was the idea of using it for immersive experiences, however it confused me at first. After looking more into the code I found that it can be used to modify the matrices used for eye and head tracking, allowing for your exprience in vr to be even more customized to your wishes. 
+
+4. https://github.com/JetBrains/idea-gitignore
+
+	This gitignore project looked useful, as it provided many different IDEs with the ability to ignore through the git functions. It also adds a popup menu for these ignores to help with getting rid of certain files that you might not remember the name for. I also liked this one as it added more quality of life features, like highlighting syntax on files and being able to close all ignored files if there are ones open that you don't need to look at.
+
+5. 
 
 
 	
