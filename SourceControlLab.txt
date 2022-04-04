@@ -15,7 +15,9 @@
 
 	This gitignore project looked useful, as it provided many different IDEs with the ability to ignore through the git functions. It also adds a popup menu for these ignores to help with getting rid of certain files that you might not remember the name for. I also liked this one as it added more quality of life features, like highlighting syntax on files and being able to close all ignored files if there are ones open that you don't need to look at.
 
-5. 
+5. https://github.com/NoCode-NoLife/melia
+
+	Melia is supposed to be an open source, educational project that gives hopeful creators the ability to help create a server hosted MMORPG. The project itself was forgotten for a bit, but had a few recent updates, so I am excited to see where this goes. I might also hop in to see if I can help with working one certain server aspects, though I will have to watch it. I am always interested in MMO projects after playing many myself, so hopefully being able to see how Melina was programmed and studying it will be able to help me learn how to create my own server based game. 
 
 
 	
