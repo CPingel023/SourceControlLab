@@ -1,0 +1,9 @@
+https://github.com/scottbez1/smartknob
+
+	This open source project is one on a haptic smart knob that provides small simulations and tests on what haptic feedback feels like with detents and endstops. I found it very interesting, as I want to get into haptic feedback development and a project like this would help me get started with soldering, even if it requires advanced soldering I could use it as a basis to practice soldering for later projects and for if I want to develop my own haptics for other aspects rather than just a twistknob. As of right now, it is a small project, but it is meant to show off what you can do with haptics and cheap parts. The project itself is only around $200, though the developer is still working on finding cheaper parts, so I am excited to see where this smartknob leads them for future projects.
+
+
+
+
+
+	
